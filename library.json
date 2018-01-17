@@ -1,0 +1,10 @@
+{
+  "name": "LinkedIoTDevices",
+  "keywords": "ld, iot",
+  "description": "Linked Data IoT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fklement/dev_linkediot.git"
+  },
+  "frameworks": "arduino"
+}
