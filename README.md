@@ -1,5 +1,5 @@
 # Sensor-Board-Library
-
+  
 The library enables communication between the sensor, gateway and bridge.
 The library covers the steps of configuring the sensor board through the gateway and then communicating between the sensor board and bridge.
 Since the library is kept very abstract, various boards, sensors and devices can be used.
